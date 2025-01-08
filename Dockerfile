@@ -57,3 +57,4 @@ WORKDIR /src
 CMD ["--help"]
 ENTRYPOINT ["/usr/share/dependency-check/bin/dependency-check.sh"]
 
+
